@@ -1,0 +1,14 @@
+.heading{
+    background-image: url('../asset/image1/h_img.jpg');
+    text-align: center;
+    color: azure;
+
+}
+#about-us{
+    text-align: center;
+}
+.service{
+    background-image: url('../asset/image1/s_image.jpg');
+    text-align: center;
+    color: beige;
+}
