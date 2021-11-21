@@ -1,20 +1,11 @@
-$(document).ready(function() {
-    $(".clickable").click(function() {
-      $("#design-showing").slideToggle();
-      $("#design-hidden").slideToggle();
+$(document).ready(function(){
+    $("#development-image").click(function(){
+      $("#development-image").slideDown('1500').hide('1000');
+      $("#development").show('1500');
     });
-   });
-   
-   $(document).ready(function() {
-    $(".click").click(function() {
-      $("#dev-showing").slideToggle();
-      $("#dev-hidden").slideToggle();
+    $("#development").click(function(){
+      $("#development").slideUp('1500');
+      $("#development-image").slideDown('1500');
     });
-   });
-   
-   $(document).ready(function() {
-    $(".clik").click(function() {
-      $("#pro-showing").slideToggle();
-      $("#pro-hidden").slideToggle();
-    });
-   });
+  });
+  
