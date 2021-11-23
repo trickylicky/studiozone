@@ -1,6 +1,11 @@
+// $(document).ready(function(){
+//     $('.clickable').click(function(){
+//       $(this).children('#product').toggle();
+//       $(this).children('product-image').toggle();
+//     })
+//   });
 $(document).ready(function(){
-    $('.clickable').click(function(){
-      $(this).children('.hide').toggle();
-      $(this).children('img').toggle();
-    })
-  });
+$("p").click(function(){
+ alert("is this working");
+})
+})
