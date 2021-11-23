@@ -15,6 +15,19 @@
 h2{
     text-align: center;
 }
-.answer{
-    
+.apply{
+    background-image: url('../asset/image1/c_image.jpg');
+    text-align: center;
+
+}
+.apps{
+    text-align: center;
+}
+input{
+    background: none;
+    border: solid white;
+}
+textarea{
+    background: none;
+    border: solid white;
 }
