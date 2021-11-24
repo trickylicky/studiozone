@@ -26,6 +26,8 @@ $(".hide2").click(function(){
     $(".show2").slideToggle();
     $(".hide2").slideToggle();
 });
-function myEnterFunction() {
-    document.getElementById("demoz").innerHTML = giraffe;
-  }
+$(".middle").hover(function(){
+    $(this).css("background-color", "gray");
+    }, function(){
+    $(this).css("background-color","none");
+  });
