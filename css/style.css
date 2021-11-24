@@ -31,3 +31,6 @@ textarea{
     background: none;
     border: solid white;
 }
+.hide0{
+    display:none;
+}
