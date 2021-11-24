@@ -12,6 +12,9 @@
     text-align: center;
     color: beige;
 }
+.what{
+    text-align: center;
+}
 h2{
     text-align: center;
 }
@@ -32,5 +35,11 @@ textarea{
     border: solid white;
 }
 .hide0{
+    display:none;
+}
+.hide1{
+    display:none;
+}
+.hide2{
     display:none;
 }
