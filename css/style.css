@@ -50,13 +50,83 @@ h3{
 .answer{
     background: blue;
 }
-/* .giraffe {
-    width: 100px;
-    height: 100px;
-    border: 1px solid black;
-    margin: 10px;
-    float: left;
-    padding: 30px;
-    text-align: center;
-    background-color: lightgray;
-  } */
+.road1{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road2{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road3{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road4{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road5{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road6{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road7{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
+.road8{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 0vh;
+    column-width:42vh ;
+    color: rgb(228, 15, 199);
+    background-color: rgb(0, 0, 0,.2);
+    padding: 50px 30px 50px 40px;
+    display: none;
+}
